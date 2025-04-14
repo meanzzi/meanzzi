@@ -2,7 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20)
 
 
-  ## 👋 Hi My name is Minji.
+  ## About me
+  #### 👋 I am Minji.
   #### 😄 I want to be a front-end developer.<br/>
   #### 📫 How to reach me: meanzi.kim@gmail.com
   <br/>
