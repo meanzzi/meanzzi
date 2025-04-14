@@ -4,6 +4,7 @@
 
   ## 👋 Hi My name is Minji.
   #### 😄 I want to be a front-end developer.<br/>
+  #### 📫 How to reach me: meanzi.kim@gmail.com
   <br/>
   <br/>
 
