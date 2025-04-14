@@ -1,12 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20%F0%9F%A4%97)
 
-<div>
-  <!--Body-->
+
   ## 👋 Hi My name is Minji.
   #### 😄 I want to be a front-end developer.<br/>
-  <br/>
-  <br/>
+
 
   ## :blue_book:Skills
   <!--Python-->
