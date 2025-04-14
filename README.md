@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Minji%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20I%20am%20Minji%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 ## Hi there 👋
 
