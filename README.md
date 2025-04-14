@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20I%20am%20yMinji%20%F0%9F%A4%97)
+
 ## Hi there 👋
 
 <!--
