@@ -4,6 +4,8 @@
 
   ## 👋 Hi My name is Minji.
   #### 😄 I want to be a front-end developer.<br/>
+  <br/>
+  <br/>
 
 
   ## :blue_book:Skills
