@@ -4,7 +4,7 @@
 
   ## About me
   - Hi, I am Minji🙌.
-  - I want to be a front-end developer.
+  - I'm a front-end developer.
   - How to reach me: meanzi.kim@gmail.com
   <br/>
   <br/>
